@@ -352,4 +352,8 @@ body {
     .bio-title-text{
     margin-left:40px
     }
-   
+ .temabanua-image {background-image:url(https\:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjTHzqalxT0VAPiPAZ-fiCepd2ykqsw9TvESL5JwWyLwq8cSdnElJ3EenN_0thhu5lJ2kZeF6T4O4LnYo9_eQqUqRLr3EoC_PukcqqcfDHq1UocBxvyeDwQ3SqsqMSvWJLWZ5CEBR0xq6LoF4k9_Cd-A8i1fLBFDTVBojh6jfDQyzVla8RVGuHDOa71e4o\/s1600\/bg.webp);}
+    
+@media (max-width: 767px) { .temabanua-image {background-image:url(https\:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjTHzqalxT0VAPiPAZ-fiCepd2ykqsw9TvESL5JwWyLwq8cSdnElJ3EenN_0thhu5lJ2kZeF6T4O4LnYo9_eQqUqRLr3EoC_PukcqqcfDHq1UocBxvyeDwQ3SqsqMSvWJLWZ5CEBR0xq6LoF4k9_Cd-A8i1fLBFDTVBojh6jfDQyzVla8RVGuHDOa71e4o\/w767\/bg.webp);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 768px) { .temabanua-image {background-image:url(https\:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjTHzqalxT0VAPiPAZ-fiCepd2ykqsw9TvESL5JwWyLwq8cSdnElJ3EenN_0thhu5lJ2kZeF6T4O4LnYo9_eQqUqRLr3EoC_PukcqqcfDHq1UocBxvyeDwQ3SqsqMSvWJLWZ5CEBR0xq6LoF4k9_Cd-A8i1fLBFDTVBojh6jfDQyzVla8RVGuHDOa71e4o\/w1600\/bg.webp);}}  
