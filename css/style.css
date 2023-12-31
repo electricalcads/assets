@@ -156,7 +156,7 @@ body {
     flex-direction: column;
     -webkit-box-pack: justify;
     justify-content: space-between;
-    padding: 64px 16px 100px;
+    padding: 64px 16px 50px;
     height: 100%;
     width: 100%
 }
