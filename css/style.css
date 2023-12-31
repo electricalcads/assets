@@ -236,7 +236,7 @@ body {
     box-sizing: border-box;
     vertical-align: middle
 }
-.bio-link-item h4 {
+.box {
     color: inherit;
     transition: box-shadow .25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, border-color .25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, transform .25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, background-color .25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s;
     overflow-wrap: break-word;
